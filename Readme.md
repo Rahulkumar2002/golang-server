@@ -81,7 +81,7 @@ Let move ahead and make our logic for this server which is our **main.go** file 
 
 
 <!-- link for structure of image  -->
- ![Struture](image\structImg.png)
+ ![Struture](https://raw.githubusercontent.com/Rahulkumar2002/golang-server/master/image/structImg.png)
 
 As you can see in our diagram , if we we hit <kbd>/</kbd> endpoint our server will serve us **index.html** file . If we hit <kbd>/form.html</kbd> it will serve us **form.html** file  and similarly if we hit <kbd>/hello</kbd>  hello function will run and it will show us **hello** message on our web page . 
 
